@@ -1,0 +1,15 @@
+
+
+.contenedor{
+    background: rgb(255, 255, 255, 0.9);
+    width: 600px;
+    height: 500px;
+    
+   margin-top: 10vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+
+
+

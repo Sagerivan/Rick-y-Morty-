@@ -1,0 +1,31 @@
+
+
+  .cartas{
+    background-color: #22314b;
+    color:#b1f0dc;
+    margin-top:10px ;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
+    
+  }
+
+  .cartas2{
+    background-color: #22314b;
+    margin-top:10px ;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+  }
+  
+  .botonCard{
+    border: 2px solid  #b1f0dc;
+    background-color: #b1f0dc;
+    color: #22314b;
+    border-radius: 5px;
+  
+    
+  }
+
+
+  

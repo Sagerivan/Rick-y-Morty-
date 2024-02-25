@@ -1,0 +1,30 @@
+
+
+.descripcion-container {
+    
+    padding: 10px;
+    border-radius: 8px;
+    
+    
+  }
+  
+  .botonX {
+    cursor: pointer;
+    background-color:#b1f0dc;
+    border-radius: 5px;
+    border: 1px solid #b1f0dc;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .list-group-item{
+    background-color:#22314b ;
+    color: white;
+    border: 1px solid black;
+    width: 300px;
+    text-align: start;
+  }
+  

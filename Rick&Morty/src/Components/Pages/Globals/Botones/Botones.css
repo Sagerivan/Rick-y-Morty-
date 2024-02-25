@@ -1,0 +1,23 @@
+.boton{
+  border-radius: 10px;
+  background: #22314b;
+  padding: 15px;
+  color:#b1f0dc;
+  margin: 5px;
+  transition: all 200ms;
+  text-decoration:none;
+  
+}
+
+.boton:hover{
+    background:  #b1f0dc;
+  padding: 15px;
+  color:#22314b;
+}
+
+.active{
+  background:  #b1f0dc;
+padding: 15px;
+color:#22314b;
+}
+

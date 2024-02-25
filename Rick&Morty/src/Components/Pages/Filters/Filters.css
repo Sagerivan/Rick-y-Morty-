@@ -1,0 +1,13 @@
+
+
+
+
+
+
+.renglon{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25vh;
+    justify-content: space-around;
+}
+

@@ -1,0 +1,41 @@
+
+
+
+.characters{
+  margin: auto;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 10vh;
+}
+
+.items{
+  width: 320px;
+  height: 450px;
+  margin-top: 10px;
+  border-radius: 10px;
+  background: #22314b;
+  padding-top: 10px;
+  color:#b1f0dc;
+
+}
+
+.buttonCard{
+  border-radius: 10px;
+  background: #b1f0dc;
+  color: #22314b;
+  
+}
+
+.filtroContenedor{
+  width:100%;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  margin-top: 25vh;
+  
+}
+
+
+
